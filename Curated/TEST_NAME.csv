@@ -1,0 +1,501 @@
+CIK,Security
+1800,Abbott Laboratories
+2969,Air Products & Chemicals Inc
+4127,Skyworks Solutions
+4281,Arconic Inc
+4447,Hess Corporation
+4904,American Electric Power
+4962,American Express Co
+4977,AFLAC Inc
+5272,"American International Group, Inc."
+5513,Unum Group
+6201,American Airlines Group
+6281,"Analog Devices, Inc."
+6769,Apache Corporation
+6951,Applied Materials Inc
+7084,Archer-Daniels-Midland Co
+7332,Southwestern Energy
+8670,Automatic Data Processing
+8818,Avery Dennison Corp
+9389,Ball Corp
+9892,Bard (C.R.) Inc.
+10456,Baxter International Inc.
+10795,Becton Dickinson
+12659,Block H&R
+12927,Boeing Company
+14272,Bristol-Myers Squibb
+14693,Brown-Forman Corporation
+16732,Campbell Soup
+16918,Constellation Brands
+18230,Caterpillar Inc.
+18926,CenturyLink Inc
+19617,JPMorgan Chase & Co.
+20286,Cincinnati Financial
+20520,Frontier Communications
+21076,The Clorox Company
+21344,Coca Cola Company
+21665,Colgate-Palmolive
+23217,ConAgra Foods Inc.
+24545,Molson Coors Brewing Company
+24741,Corning Inc.
+26172,Cummins Inc.
+27419,Target Corp.
+27904,Delta Air Lines
+28412,Comerica Inc.
+29534,Dollar General
+29905,Dover Corp.
+29915,Dow Chemical
+29989,Omnicom Group
+30554,Du Pont (E.I.)
+30625,Flowserve Corporation
+31462,Ecolab Inc.
+31791,PerkinElmer
+32604,Emerson Electric Company
+33185,Equifax Inc.
+33213,EQT Corporation
+34088,Exxon Mobil Corp.
+34903,Federal Realty Investment Trust
+35527,Fifth Third Bancorp
+36104,U.S. Bancorp
+36270,M&T Bank Corp.
+37785,FMC Corporation
+37996,Ford Motor
+38777,Franklin Resources
+39899,"Tegna, Inc."
+39911,Gap (The)
+40533,General Dynamics
+40545,General Electric
+40704,General Mills
+40987,Genuine Parts
+42582,Goodyear Tire & Rubber
+45012,Halliburton Co.
+46080,Hasbro Inc.
+46765,Helmerich & Payne
+47111,The Hershey Company
+47217,HP Inc.
+48465,Hormel Foods Corp.
+49071,Humana Inc.
+49196,Huntington Bancshares
+49826,Illinois Tool Works
+50104,Tesoro Petroleum Co.
+50863,Intel Corp.
+51143,International Business Machines
+51253,Intl Flavors & Fragrances
+51434,International Paper
+51644,Interpublic Group
+52988,Jacobs Engineering Group
+54480,Kansas City Southern
+55067,Kellogg Co.
+55785,Kimberly-Clark
+56873,Kroger Co.
+58492,Leggett & Platt
+59478,Lilly (Eli) & Co.
+59558,Lincoln National
+60086,Loews Corp.
+60667,Lowe's Cos.
+62709,Marsh & McLennan
+62996,Masco Corp.
+63276,Mattel Inc.
+63754,McCormick & Co.
+63908,McDonald's Corp.
+64040,"S&P Global, Inc."
+64670,Medtronic plc
+64803,CVS Health
+65984,Entergy Corp.
+66740,3M Company
+68505,Motorola Solutions Inc.
+69499,Mylan N.V.
+70858,Bank of America Corp
+72207,Noble Energy Inc
+72333,Nordstrom
+72741,Eversource Energy
+72903,Xcel Energy Inc
+72971,Wells Fargo
+73124,Northern Trust Corp.
+73309,Nucor Corp.
+74208,UDR Inc
+75362,PACCAR Inc.
+76334,Parker-Hannifin
+77360,Pentair Ltd.
+77476,PepsiCo Inc.
+78003,Pfizer Inc.
+78239,PVH Corp.
+78814,Pitney-Bowes
+79879,PPG Industries
+80424,Procter & Gamble
+80661,Progressive Corp.
+85961,Ryder System
+86312,The Travelers Companies Inc.
+87347,Schlumberger Ltd.
+89800,Sherwin-Williams
+91419,JM Smucker
+91440,Snap-On Inc.
+91576,KeyCorp
+92122,Southern Co.
+92230,BB&T Corporation
+92380,Southwest Airlines
+93410,Chevron Corp.
+93556,Stanley Black & Decker
+93751,State Street Corp.
+96021,Sysco Corp.
+96223,Leucadia National Corp.
+97476,Texas Instruments
+97745,Thermo Fisher Scientific
+98246,Tiffany & Co.
+100493,Tyson Foods
+100517,United Continental Holdings
+100885,Union Pacific
+101778,Marathon Oil Corp.
+101829,United Technologies
+103379,V.F. Corp.
+104169,Wal-Mart Stores
+106040,Western Digital
+106535,Weyerhaeuser Corp.
+106640,Whirlpool Corp.
+107263,Williams Cos.
+108772,Xerox Corp.
+109198,TJX Companies Inc.
+109380,Zions Bancorp
+200406,Johnson & Johnson
+202058,Harris Corporation
+203527,Varian Medical Systems
+217346,Textron Inc.
+277135,Grainger (W.W.) Inc.
+277948,CSX Corp.
+310158,Merck & Co.
+310764,Stryker Corp.
+313616,Danaher Corp.
+313927,Church & Dwight
+315189,Deere & Co.
+315213,Robert Half International
+315293,Aon plc
+315852,Range Resources Corp.
+316709,Charles Schwab Corporation
+318154,Amgen Inc
+319201,KLA-Tencor Corp.
+320187,Nike
+320193,Apple Inc.
+320335,Torchmark Corp.
+350698,AutoNation Inc
+352541,Alliant Energy Corp
+352915,"Universal Health Services, Inc."
+354190,Arthur J. Gallagher & Co.
+354908,FLIR Systems
+354950,Home Depot
+356028,"CA, Inc."
+701221,CIGNA Corp.
+701985,L Brands Inc.
+702165,Norfolk Southern Corp.
+707549,Lam Research
+711404,The Cooper Companies
+712515,Electronic Arts
+713676,PNC Financial Services
+715957,Dominion Resources
+717423,Murphy Oil
+718877,Activision Blizzard
+721371,Cardinal Health Inc.
+721683,Total System Services
+723125,Micron Technology
+723254,Cintas Corporation
+723531,Paychex Inc.
+726728,Realty Income Corporation
+728535,J. B. Hunt Transport Services
+731766,United Health Group Inc.
+732712,Verizon Communications
+732717,AT&T Inc
+740260,Ventas Inc
+743988,Xilinx Inc
+745732,Ross Stores
+746515,Expeditors Int'l
+750556,SunTrust Banks
+753308,NextEra Energy
+754737,SCANA Corp
+759944,Citizens Financial Group
+764180,Altria Group Inc
+764478,Best Buy Co. Inc.
+764622,Pinnacle West Capital
+765880,HCP Inc.
+766421,Alaska Air Group Inc
+766704,Welltower Inc.
+769397,Autodesk Inc
+773840,Honeywell Int'l Inc.
+773910,Anadarko Petroleum Corp
+783325,Wec Energy Group Inc
+788784,Public Serv. Enterprise Inc.
+789019,Microsoft Corp.
+791519,Staples Inc.
+791907,Linear Technology Corp.
+793952,Harley-Davidson
+794323,Level 3 Communications
+794367,Macy's Inc.
+796343,Adobe Systems Inc
+797468,Occidental Petroleum
+798354,Fiserv Inc
+800459,Harman Int'l Industries
+804328,QUALCOMM Inc.
+804753,Cerner
+808362,Baker Hughes Inc
+811156,CMS Energy
+813828,CBS Corp.
+814453,Newell Brands
+815097,Carnival Corp.
+815556,Fastenal Co
+816284,Celgene Corp.
+816761,Teradata Corp.
+818479,Dentsply Sirona
+820027,Ameriprise Financial
+820313,Amphenol Corp
+821189,EOG Resources
+822416,Pulte Homes Inc.
+823768,Waste Management Inc.
+827052,Edison Int'l
+827054,Microchip Technology
+829224,Starbucks Corp.
+831001,Citigroup Inc.
+831259,Freeport-McMoran Cp & Gld
+832988,Signet Jewelers
+833444,Johnson Controls International
+849399,Symantec Corp.
+850209,Foot Locker Inc
+851968,Mohawk Industries
+858470,Cabot Oil & Gas
+858877,Cisco Systems
+859737,Hologic
+860730,HCA Holdings
+861878,Stericycle Inc
+865436,Whole Foods Market
+865752,Monster Beverage
+866787,AutoZone Inc
+872589,Regeneron
+874716,IDEXX Laboratories
+874761,AES Corp
+874766,Hartford Financial Svc.Gp.
+875045,BIOGEN IDEC Inc.
+875159,XL Capital
+875320,Vertex Pharmaceuticals Inc
+877890,Citrix Systems
+879101,Kimco Realty
+882095,Gilead Sciences
+882184,D. R. Horton
+882835,Roper Industries
+884629,"Allergan, Plc"
+884887,Royal Caribbean Cruises Ltd
+884905,Praxair Inc.
+885639,Kohl's Corp.
+885725,Boston Scientific
+886158,Bed Bath & Beyond
+886982,Goldman Sachs Group
+891024,Patterson Companies
+895126,Chesapeake Energy
+895421,Morgan Stanley
+895648,General Growth Properties Inc.
+895930,Envision Healthcare Corp
+896159,Chubb Limited
+896878,Intuit Inc.
+898173,O'Reilly Automotive
+899051,Allstate Corp
+899689,Vornado Realty Trust
+899866,Alexion Pharmaceuticals
+906107,Equity Residential
+908255,BorgWarner
+909832,Costco Co.
+912242,Macerich
+912595,Mid-America Apartments
+912615,Urban Outfitters
+912750,Newfield Exploration Co
+914208,Invesco Ltd.
+915389,Eastman Chemical
+915912,"AvalonBay Communities, Inc."
+915913,Albemarle Corp
+916076,Martin Marietta Materials
+916365,Tractor Supply Company
+920148,Laboratory Corp. of America Holding
+920522,"Essex Property Trust, Inc."
+920760,Lennar Corp.
+922224,PPL Corp.
+922864,Apartment Investment & Mgmt
+927066,DaVita Inc.
+927628,Capital One Financial
+927653,McKesson Corp.
+935703,Dollar Tree
+936340,DTE Energy Co.
+936468,Lockheed Martin Corp.
+940944,Darden Restaurants
+1000228,Henry Schein
+1000697,Waters Corporation
+1001039,The Walt Disney Company
+1001250,Estee Lauder Cos.
+1002047,NetApp
+1002910,Ameren Corp
+1004434,Affiliated Managers Group Inc
+1004980,PG&E Corp.
+1011006,Yahoo Inc.
+1012100,Sealed Air
+1013871,NRG Energy
+1014473,Verisign Inc.
+1015780,E*Trade
+1018724,Amazon.com Inc
+1020569,Iron Mountain Incorporated
+1021860,National Oilwell Varco Inc.
+1022079,Quest Diagnostics
+1024305,"Coty, Inc"
+1024478,Rockwell Automation Inc.
+1031296,FirstEnergy Corp
+1032208,Sempra Energy
+1035002,Valero Energy
+1035267,Intuitive Surgical Inc.
+1037038,Polo Ralph Lauren Corp.
+1037540,Boston Properties
+1037646,Mettler Toledo
+1037868,AMETEK Inc
+1038357,Pioneer Natural Resources
+1039684,ONEOK
+1040971,SL Green Realty
+1041061,Yum! Brands Inc
+1043277,C. H. Robinson Worldwide
+1043604,Juniper Networks
+1045609,Prologis
+1045810,Nvidia Corporation
+1047122,Raytheon Co.
+1047862,Consolidated Edison
+1048286,Marriott Int'l.
+1048695,F5 Networks
+1048911,FedEx Corporation
+1050915,Quanta Services Inc.
+1051470,Crown Castle International Corp.
+1053507,American Tower Corp A
+1056239,L-3 Communications Holdings
+1058090,Chipotle Mexican Grill
+1058290,Cognizant Technology Solutions
+1059556,Moody's Corp
+1060391,Republic Services Inc
+1063761,Simon Property Group Inc
+1065088,eBay Inc.
+1065280,Netflix Inc.
+1065696,LKQ Corporation
+1067701,"United Rentals, Inc."
+1067983,Berkshire Hathaway
+1070750,Host Hotels & Resorts
+1071739,Centene Corporation
+1075531,Priceline.com Inc
+1086222,Akamai Technologies Inc
+1087423,Red Hat Inc.
+1090012,Devon Energy Corp.
+1090727,United Parcel Service
+1090872,Agilent Technologies Inc
+1091667,Charter Communications
+1099219,MetLife Inc.
+1099800,Edwards Lifesciences
+1100962,Endo International
+1101215,Alliance Data Systems
+1101239,Equinix
+1103982,Mondelez International
+1105705,Time Warner Inc.
+1108524,Salesforce.com
+1109357,Exelon Corp.
+1110783,Monsanto Co.
+1110803,Illumina Inc
+1111711,NiSource Inc.
+1113169,T. Rowe Price Group
+1115222,Dun & Bradstreet
+1116132,Coach Inc.
+1120193,NASDAQ OMX Group
+1121788,Garmin Ltd.
+1122304,Aetna Inc
+1123360,Global Payments Inc
+1124198,Fluor Corp.
+1126328,Principal Financial Group
+1130310,CenterPoint Energy
+1133421,Northrop Grumman Corp.
+1135152,FMC Technologies Inc.
+1136869,Zimmer Biomet Holdings
+1136893,Fidelity National Information Services
+1137411,Rockwell Collins
+1137774,Prudential Financial
+1137789,Seagate Technology
+1138118,CBRE Group
+1140536,Willis Towers Watson
+1140859,AmerisourceBergen Corp
+1141391,Mastercard Inc.
+1144215,Acuity Brands Inc
+1156039,Anthem Inc.
+1156375,CME Group Inc.
+1158449,Advance Auto Parts
+1163165,ConocoPhillips
+1164727,Newmont Mining Corp. (Hldg. Co.)
+1166691,Comcast A Corp
+1168054,Cimarex Energy
+1170010,Carmax Inc
+1174922,Wynn Resorts Ltd
+1260221,TransDigm Group
+1267238,Assurant Inc
+1274494,First Solar Inc
+1275283,Reynolds American Inc.
+1281761,Regions Financial Corp.
+1285785,The Mosaic Company
+1289490,Extra Space Storage
+1297996,Digital Realty Trust
+1308161,Twenty-First Century Fox Class A
+1324404,CF Industries Holdings Inc
+1324424,Expedia Inc.
+1326160,Duke Energy
+1326801,Facebook
+1336917,Under Armour
+1339947,Viacom Inc.
+1341439,Oracle Corp.
+1358071,Concho Resources
+1359841,Hanesbrands Inc
+1361658,Wyndham Worldwide
+1364742,BlackRock
+1365135,Western Union Co
+1373835,Spectra Energy Corp.
+1378946,People's United Financial
+1385157,TE Connectivity Ltd.
+1390777,The Bank of New York Mellon Corp.
+1393311,Public Storage
+1393612,Discover Financial Services
+1396009,Vulcan Materials
+1403161,Visa Inc.
+1403568,Ulta Salon Cosmetics & Fragrance Inc
+1410636,American Water Works Company Inc
+1413329,Philip Morris International
+1418135,Dr Pepper Snapple Group
+1430602,Scripps Networks Interactive Inc.
+1437107,Discovery Communications-A
+1441634,Broadcom
+1442145,Verisk Analytics
+1451505,Transocean
+1452575,Mead Johnson
+1466258,Ingersoll-Rand PLC
+1467373,Accenture plc
+1467858,General Motors
+1489393,LyondellBasell
+1492633,Nielsen Holdings
+1506307,Kinder Morgan
+1510295,Marathon Petroleum
+1519751,Fortune Brands Home & Security
+1521332,Delphi Automotive
+1524472,Xylem Inc.
+1526520,TripAdvisor
+1530721,Michael Kors Holdings
+1532063,Express Scripts
+1534701,Phillips 66
+1545158,Kraft Heinz Co
+1551152,AbbVie
+1551182,Eaton Corporation
+1555280,Zoetis
+1564708,News Corp. Class A
+1567892,Mallinckrodt Plc
+1571949,Intercontinental Exchange
+1579241,Allegion
+1585364,Perrigo
+1593538,Navient
+1601712,Synchrony Financial
+1604778,Qorvo
+1618921,Walgreens Boots Alliance
+1633917,PayPal
+1636023,WestRock Company
+1645590,Hewlett Packard Enterprise
+1646383,CSRA Inc.
+1652044,Alphabet Inc Class A
+1659166,Fortive Corp
